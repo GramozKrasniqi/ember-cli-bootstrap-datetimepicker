@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-bootstrap-datetimepicker",
-  "version": "0.8.2",
+  "version": "0.8.2-alpha",
   "description": "Date and time picker component for Ember CLI based on bootstrap-datetimepicker.",
   "keywords": [
     "ember-addon",
@@ -34,7 +34,7 @@
   "dependencies": {
     "ember-cli-babel": "^7.4.1",
     "ember-cli-htmlbars": "^3.0.1",
-    "eonasdan-bootstrap-datetimepicker": "btecu/bootstrap-datetimepicker"
+    "eonasdan-bootstrap-datetimepicker": "^4.17.47"
   },
   "devDependencies": {
     "@ember/jquery": "^0.6.0",
