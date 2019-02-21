@@ -16,7 +16,7 @@
     "timepicker",
     "datetimepicker"
   ],
-  "repository": "https://github.com/btecu/ember-cli-bootstrap-datetimepicker",
+  "repository": "https://github.com/GramozKrasniqi/ember-cli-bootstrap-datetimepicker",
   "license": "MIT",
   "author": "Bujorel Tecu",
   "directories": {
